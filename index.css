@@ -39,14 +39,6 @@ body {
     padding: 0 5vw 2vw;
 }
 
-@media only screen and (max-width: 725px){
-
-.banner .card .heading{
-    font-size: 1rem
-}
-
-}
-
 .banner .card .sub-heading button {
     background: none;
     border: none;
@@ -59,13 +51,6 @@ body {
     padding: 10px;
     text-transform: uppercase;
     transition: box-shadow 0.3s linear 0.1s;
-}
-
-@media only screen and (max-width: 725px){
-
-    .banner .card .sub-heading button{
-        font-size: 0.5rem
-    }
 }
 
 .banner .card .sub-heading button:hover {
